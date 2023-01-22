@@ -15,6 +15,7 @@ I'm currently in Year 11 of Canberra Grammar School IB program. You can check ou
 - C++ (competitive programming only)
 - MySQL and SQLite (basic knowledge)
 - HTML, CSS and JavaScript
+- LaTeX, Markdown, Marp and Jekyll
 
 ### Interests
 
