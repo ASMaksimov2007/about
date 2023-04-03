@@ -20,6 +20,6 @@ I'm currently in Year 11 of Canberra Grammar School IB program. You can check ou
 ### Interests
 
 - I've been doing [competitive programming](https://codeforces.com/profile/ad_red) since 2021.
-- I like doing sports and contribute to open-source projects.
+- I like doing sports and contributing to open-source projects.
 - I'm not [that great](https://lichess.org/@/alex_maksimov) at chess.
 - According to [8values](https://8values.github.io), I'm a social democrat.
