@@ -7,7 +7,7 @@ I'm Alex Maksimov. Nice to meet you.
 
 ### Education
 
-I'm currently in Year 11 of Canberra Grammar School IB program. You can check out my academic portfolio [here](https://asmaksimov2007.github.io/portfolio-alex).
+I'm currently in Year 11 of Canberra Grammar School IB program. You can check out my academic portfolio [here](https://maleksware.github.io/portfolio-alex).
 
 ### Programming stack
 

@@ -21,4 +21,4 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Alex Maksimov'
-author:              'asmaksimov2007'
+author:              'maleksware'
