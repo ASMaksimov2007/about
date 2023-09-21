@@ -9,6 +9,11 @@ I'm Alex Maksimov. Nice to meet you.
 
 I'm currently in Year 11 of Canberra Grammar School IB program. You can check out my academic portfolio [here](https://maleksware.github.io/portfolio-alex).
 
+### Research works
+
+- [Offline upper envelope calculation implementation (Python/C++) based on discrete interpolation](https://github.com/maleksware/upper-envelope)
+- [Dynamic substring comparison problem: segment tree approach (Maksimov, 2023)](https://github.com/maleksware/hash-segtree)
+
 ### Programming stack
 
 - Python (simple utilities, console-based interfaces, file generation and APIs)
